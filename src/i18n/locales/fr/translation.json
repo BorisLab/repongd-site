@@ -1,0 +1,105 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "axes": "Axes Stratégiques",
+    "donate": "Faire un Don",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Renforcer les ONG africaines pour un avenir durable",
+    "subtitle": "REPONGD-Afrique soutient les organisations de la société civile en Afrique à travers un accompagnement stratégique et durable.",
+    "about": {
+      "title": "Qui sommes-nous ?",
+      "paragraph1": "REPONGD-Afrique soutient les organisations de la société civile en Afrique avec des stratégies innovantes et durables pour un impact significatif.",
+      "paragraph2": "Notre mission est de transformer les ONG africaines en véritables catalyseurs de développement durable."
+    },
+    "axesIntro": "Découvrez les grandes lignes qui guident nos interventions pour un impact durable.",
+    "axesItems": [
+      { "title": "Structuration" },
+      { "title": "Certification" },
+      { "title": "Mobilisation de Ressources" },
+      { "title": "Partenariats" },
+      { "title": "Communication" },
+      { "title": "Durabilité" }
+    ],
+    "partnersTitle": "Ils nous font confiance",
+    "donate": {
+      "title": "Contribuez au changement",
+      "description": "Chaque don soutient directement nos actions sur le terrain et renforce notre impact sur les communautés africaines.",
+      "button": "Faire un Don"
+    }
+  },
+  "about": {
+    "title": "À propos de REPONGD-Afrique",
+    "content": "Votre contenu À propos ici en français."
+  },
+  "axes": {
+    "title": "Nos Axes Stratégiques",
+    "sectionTitle": "Nos domaines d'intervention",
+    "items": [
+      {
+        "title": "Création, Organisation et Structuration",
+        "description": "Accompagner les ONG dans leur mise en place, organisation interne et structuration légale."
+      },
+      {
+        "title": "Professionnalisation et Certification",
+        "description": "Renforcer les compétences techniques et certifier les processus pour plus de crédibilité."
+      },
+      {
+        "title": "Mobilisation des Ressources",
+        "description": "Développer des stratégies innovantes pour assurer un financement durable des projets."
+      },
+      {
+        "title": "Coopération et Partenariat",
+        "description": "Favoriser les synergies entre ONG et partenaires pour des actions collectives efficaces."
+      },
+      {
+        "title": "Communication et Visibilité",
+        "description": "Renforcer la visibilité des ONG pour mobiliser des ressources et sensibiliser l’opinion publique."
+      },
+      {
+        "title": "Durabilité",
+        "description": "Encourager des projets respectueux de l’environnement et socialement responsables."
+      }
+    ]
+  },
+  "donate": {
+    "heroTitle": "Soutenez notre cause",
+    "sectionTitle": "Contribuez au changement",
+    "description": "Votre don nous aide à continuer notre mission : soutenir les ONG africaines et renforcer leur impact durable sur les communautés.",
+    "button": "Faire un Don"
+  },
+  "contact": {
+    "title": "Envoyez-nous un message",
+    "form": {
+      "nameLabel": "Nom",
+      "namePlaceholder": "Votre nom",
+      "emailLabel": "Adresse Email",
+      "emailPlaceholder": "Votre adresse email",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Votre message",
+      "submitButton": "Envoyer"
+    }
+  },
+  "footer": {
+    "contactInfo": "Coordonnées",
+    "address1": "Agoè Assiyéyé BP 0000, Lomé-Togo",
+    "address2": "[DistrictName] BOÎTE POSTALE 0000, Accra-Ghana",
+    "quickLinks": "Liens rapides",
+    "home": "Accueil",
+    "about": "À propos",
+    "axes": "Axes Stratégiques",
+    "contacts": "Contacts",
+    "ceo": "Président et Directeur Général",
+    "phoneCeo": "Téléphone : +1 240 990 0989",
+    "presidentOffice": "Bureau du Président",
+    "phoneOffice": "Téléphone : 202 650 9399",
+    "email": "E-mail : info_se-international.org",
+    "website": "Site Web : www.se-international.org",
+    "followUs": "Suivez-nous sur :",
+    "linkedin": "LinkedIn",
+    "facebook": "Facebook",
+    "tiktok": "TikTok"
+  }
+}

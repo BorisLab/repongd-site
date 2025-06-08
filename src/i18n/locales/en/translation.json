@@ -1,0 +1,106 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "axes": "Strategic Axes",
+    "donate": "Donate",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Empowering African NGOs for a Sustainable Future",
+    "subtitle": "REPONGD-Afrique supports civil society organizations across Africa with strategic and sustainable assistance.",
+    "about": {
+      "title": "Who are we?",
+      "paragraph1": "REPONGD-Afrique supports civil society organizations in Africa with innovative and sustainable strategies for significant impact.",
+      "paragraph2": "Our mission is to transform African NGOs into real catalysts for sustainable development."
+    },
+    "axesIntro": "Discover the main lines guiding our interventions for lasting impact.",
+    "axesItems": [
+      { "title": "Structuring" },
+      { "title": "Certification" },
+      { "title": "Resource Mobilization" },
+      { "title": "Partnerships" },
+      { "title": "Communication" },
+      { "title": "Sustainability" }
+    ],
+    "partnersTitle": "Trusted by",
+    "donate": {
+      "heroTitle": "Support Our Cause",
+      "title": "Contribute to Change",
+      "description": "Your donation helps us continue our mission: supporting African NGOs and strengthening their lasting impact on communities.",
+      "button": "Make a Donation"
+    }
+  },
+  "about": {
+    "title": "About REPONGD-Afrique",
+    "content": "Your About content here in English."
+  },
+  "axes": {
+    "title": "Our Strategic Axes",
+    "sectionTitle": "Our Areas of Intervention",
+    "items": [
+      {
+        "title": "Creation, Organization, and Structuring",
+        "description": "Support NGOs in their establishment, internal organization, and legal structuring."
+      },
+      {
+        "title": "Professionalization and Certification",
+        "description": "Strengthen technical skills and certify processes for greater credibility."
+      },
+      {
+        "title": "Resource Mobilization",
+        "description": "Develop innovative strategies to ensure sustainable project funding."
+      },
+      {
+        "title": "Cooperation and Partnership",
+        "description": "Promote synergies between NGOs and partners for effective collective actions."
+      },
+      {
+        "title": "Communication and Visibility",
+        "description": "Enhance NGO visibility to mobilize resources and raise public awareness."
+      },
+      {
+        "title": "Sustainability",
+        "description": "Encourage environmentally friendly and socially responsible projects."
+      }
+    ]
+  },
+  "donate": {
+    "heroTitle": "Support Us",
+    "sectionTitle": "Contribute to Change",
+    "description": "Your donation helps us continue our mission: supporting African NGOs and strengthening their lasting impact on communities.",
+    "button": "Make a Donation"
+  },
+  "contact": {
+    "title": "Send Us a Message",
+    "form": {
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Your email address",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Your message",
+      "submitButton": "Send"
+    }
+  },
+  "footer": {
+    "contactInfo": "Contact Information",
+    "address1": "Agoè Assiyéyé BP 0000, Lomé-Togo",
+    "address2": "[DistrictName] PO BOX 0000, Accra-Ghana",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "about": "About",
+    "axes": "Strategic Axes",
+    "contacts": "Contacts",
+    "ceo": "President and CEO",
+    "phoneCeo": "Phone: +1 240 990 0989",
+    "presidentOffice": "President's Office",
+    "phoneOffice": "Phone: 202 650 9399",
+    "email": "Email: info_se-international.org",
+    "website": "Website: www.se-international.org",
+    "followUs": "Follow us on:",
+    "linkedin": "LinkedIn",
+    "facebook": "Facebook",
+    "tiktok": "TikTok"
+  }
+}
